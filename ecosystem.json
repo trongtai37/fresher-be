@@ -1,0 +1,10 @@
+{
+    "apps": [
+      {
+        "name": "UNO",
+        "script": "./dist/main.js",
+        "merge_logs": true
+      }
+    ]
+  }
+  

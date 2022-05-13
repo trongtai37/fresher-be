@@ -1,0 +1,12 @@
+{
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "assets": [
+      "/notification/*.json"
+    ],
+    "plugins": [
+      "@nestjs/swagger"
+    ]
+  }
+}
